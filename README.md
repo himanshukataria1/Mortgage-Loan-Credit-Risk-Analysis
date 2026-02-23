@@ -1,19 +1,19 @@
 # Mortgage-Loan-Credit-Risk-Analysis
 
 
--- Project Overview -- 
+Project Overview
 
 This project analyzes 148,000+ mortgage loan records to identify structural drivers of default risk. The analysis focuses on borrower leverage (LTV), repayment capacity (DTI), product structure, and composite risk segmentation.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Objective -- 
+Objective
 
 To identify high-risk exposure concentration and propose underwriting strategy improvements using data-driven risk modeling.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Key Analysis Performed -- 
+Key Analysis Performed
 
 1.Data Cleaning & Feature Engineering
 
@@ -29,7 +29,7 @@ To identify high-risk exposure concentration and propose underwriting strategy i
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Key Findings -- 
+Key Findings
 
 1. Default rates increase significantly beyond 80% LTV
 
@@ -41,7 +41,7 @@ To identify high-risk exposure concentration and propose underwriting strategy i
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Tools Used -- 
+Tools Used
 
 Excel (Advanced)
 
@@ -53,7 +53,7 @@ Data Modeling Techniques
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Files Included -- 
+Files Included
 
 Executive Dashboard (Excel)
 
